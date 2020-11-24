@@ -1,4 +1,4 @@
 # typescript-practices
-TypeScript practices based on LS classes
+TypeScript practices based on LS classes.
 
-Ignore all the not unnecessary packages I pushed
+Just ignore all the unnecessary packages I pushed
